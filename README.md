@@ -6,4 +6,4 @@
 
 Links abaixo:
 
-- <a href="https://www.codecademy.com/" about="_blank">Code Academy</a>
+- <a href="https://www.codecademy.com/" target="_blank">Code Academy</a>
