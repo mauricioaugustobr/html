@@ -32,6 +32,8 @@ Links abaixo:
 
 - <a href="https://iconarchive.com/">Icon Archive</a>
 
+- <a href="https://favicon.io/">Favicon.io</a>
+
 - <a href="https://www.favicon.cc/">Favicon.cc</a>
 
 ***
