@@ -25,6 +25,8 @@ Links abaixo:
 - <a href="https://html.spec.whatwg.org/multipage/">Whatwg</a>
 
 - <a href="https://www.w3schools.com/">W3Schools</a>
+
+-<a href="https://emojipedia.org/">Emojipedia</a>
  
 
 ***
