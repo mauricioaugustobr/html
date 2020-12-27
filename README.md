@@ -24,17 +24,17 @@ Links abaixo:
 
 - <a href="https://www.w3schools.com/">W3Schools</a>
 
-- <a href="https://emojipedia.org/">Emojipedia</a>
+- <a href="https://emojipedia.org/">Emojipedia</a>: Emojis.
 
-- <a href="https://www.pexels.com/pt-br/">Pexels</a>
+- <a href="https://www.pexels.com/pt-br/">Pexels</a>: Imagens free.
 
-- <a href="https://unsplash.com/">Unsplash</a>
+- <a href="https://unsplash.com/">Unsplash</a>: Imagens free.
 
 - <a href="https://iconarchive.com/">Icon Archive</a>
 
-- <a href="https://favicon.io/">Favicon.io</a>
+- <a href="https://favicon.io/">Favicon.io</a>: Favicons prontas.
 
-- <a href="https://www.favicon.cc/">Favicon.cc</a>
+- <a href="https://www.favicon.cc/">Favicon.cc</a>: Para criar uma Favicon.
 
 ***
 
