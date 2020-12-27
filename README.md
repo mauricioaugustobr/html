@@ -30,6 +30,10 @@ Links abaixo:
 
 - <a href="https://unsplash.com/">Unsplash</a>
 
+- <a href="https://iconarchive.com/">Icon Archive</a>
+
+- <a href="https://www.favicon.cc/">Favicon.cc</a>
+
 ***
 
 **Serviços de Hospedagem de sites**
