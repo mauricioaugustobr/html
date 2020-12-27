@@ -1,4 +1,4 @@
-# [HTML]
+# [HTML] 🖥️
 
 Aqui vou guardar todos os links dos meus estudos de **HTML**.
 
