@@ -1,8 +1,6 @@
 # [HTML]
- Estudos de HTML
 
- Aqui vou guardar todos os links para estudos de **HTML**.
-
+Aqui vou guardar todos os links dos meus estudos de **HTML**.
 
 Links abaixo:
 
