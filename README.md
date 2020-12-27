@@ -26,6 +26,10 @@ Links abaixo:
 
 - <a href="https://emojipedia.org/">Emojipedia</a>
 
+- <a href="https://www.pexels.com/pt-br/">Pexels</a>
+
+- <a href="https://unsplash.com/">Unsplash</a>
+
 ***
 
 **Serviços de Hospedagem de sites**
