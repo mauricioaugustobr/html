@@ -26,7 +26,7 @@ Links abaixo:
 
 - <a href="https://www.w3schools.com/">W3Schools</a>
 
--<a href="https://emojipedia.org/">Emojipedia</a>
+- <a href="https://emojipedia.org/">Emojipedia</a>
  
 
 ***
