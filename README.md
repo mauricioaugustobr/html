@@ -40,6 +40,8 @@ Links abaixo:
 
 - <a href="https://www.favicon.cc/">Favicon.cc</a>: Para criar uma Favicon.
 
+- <a href="https://www.iana.org/assignments/media-types/media-types.xhtml">Media Types</a>
+
 ***
 
 **Serviços de Hospedagem de sites**
