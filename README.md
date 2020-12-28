@@ -34,7 +34,7 @@ Links abaixo:
 
 - <a href="https://unsplash.com/">Unsplash</a>: Imagens free.
 
-- <a href="https://iconarchive.com/">Icon Archive</a>: Ícones.
+- <a href="https://iconarchive.com/">Icon Archive</a>: Ícones e Favicons.
 
 - <a href="https://favicon.io/">Favicon.io</a>: Favicons prontas.
 
