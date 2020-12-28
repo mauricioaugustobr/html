@@ -30,7 +30,7 @@ Links abaixo:
 
 - <a href="https://emojipedia.org/">Emojipedia</a>: Emojis.
 
-- <a href="https://www.pexels.com/pt-br/">Pexels</a>: Imagens free.
+- <a href="https://www.pexels.com/pt-br/">Pexels</a>: Imagens e vídeos free.
 
 - <a href="https://unsplash.com/">Unsplash</a>: Imagens free.
 
