@@ -16,7 +16,7 @@ Links abaixo:
 
 - <a href="https://www.learn-html.org/">Learn HTML</a>
 
-- < href="https://free-for.dev/#/?id=forms">Free for DEVS[Muito conteúdo para DEVS]</a>
+- <a href="https://free-for.dev/#/?id=forms">Free for DEVS[Muito conteúdo para DEVS]</a>
 
 ***
 
