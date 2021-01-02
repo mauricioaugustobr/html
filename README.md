@@ -1,6 +1,6 @@
 # [HTML5/CSS3/JavaScript] 🖥️
 
-Aqui vou guardar todos os links dos meus estudos de **HTML**.
+Aqui vou guardar todos os links dos meus estudos de **HTML, CSS e JavaScript**.
 
 Links abaixo:
 
@@ -41,6 +41,8 @@ Links abaixo:
 - <a href="https://favicon.io/">Favicon.io</a>: Favicons prontas.
 
 - <a href="https://www.favicon.cc/">Favicon.cc</a>: Para criar uma Favicon.
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/Events">Eventos DOM possíveis:</a> JavaScript
 
 - <a href="https://www.iana.org/assignments/media-types/media-types.xhtml">Media Types</a>
 
