@@ -1,0 +1,35 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HOME</title>
+    <style>
+        body{
+            font: normal 20pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Página de teste do JavaScript.</h1>
+    <script>
+       var nome = window.prompt('Qual o seu nome?')  /*Faz uma pergunta*/
+       window.confirm(`${nome}, se você quer um desconto, clica em OK.`) /*Pede uma confirmação*/
+
+       window.alert('Agora vamos para o segundo SCRIPT!')
+
+       var n1 = Number(window.prompt('Digite um preço:'))       /*A variável nome é do tipo NUMBER*/ 
+       var n2 = Number(window.prompt('Digite o desconto:'))
+       var s = n1-n2
+       window.alert('Você vai pagar: ' + s.toLocaleString('pt-BR',{style: 'currency',currency: 'BRL'}) )    /*Retorna um alerta ou um resultado*/
+
+       window.alert('Agora vamos para o terceiro SCRIPT!')
+
+       var nome2 = window.prompt('Qual o nome do seu animal de estimação?')
+       document.writeln(`${nome}, o nome do seu animal de estimação tem ${nome2.length} letras.`)
+       document.writeln(`O nome do seu animal em maiúsculo é ${nome2.toUpperCase()}.`)
+       document.write(`E o nome do seu animal em minúsculo é ${nome2.toLowerCase()}.`)
+
+    </script>
+</body>
+</html>
