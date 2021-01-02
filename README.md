@@ -24,7 +24,7 @@ Links abaixo:
 
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/ReferenciaHTML"> Referência MDN</a>
  
-- <a href="https://www.w3c.br/">W3C</a> 
+- <a href="https://www.w3.org/Style/CSS/Overview.en.html">W3C</a> 
 
 - <a href="https://html.spec.whatwg.org/multipage/">Whatwg</a>
 
