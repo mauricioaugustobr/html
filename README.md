@@ -10,7 +10,7 @@ Links abaixo:
 
 - <a href="https://code.org/">Code.org</a>
 
-- <a href="https://pt.stackoverflow.com/">Stackoverflow</a>
+- <a href="https://pt.stackoverflow.com/">Stackoverflow</a>[Fórum de DEVS]
 
 - <a href="https://www.maujor.com/">Maujor CSS</a>
 
