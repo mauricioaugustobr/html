@@ -52,6 +52,24 @@ Links abaixo:
 
 ***
 
+**Sites de paleta de cores**
+
+- <a href="https://medium.com/uai-ux/8-sites-sobre-paleta-de-cores-que-todo-designer-precisa-saber-a02bbba3291">ARTIGO: 8 sites de paleta de cores para designers</a>
+
+- <a href="https://coolors.co/">Coolors.co</a>
+
+- <a href="https://color.adobe.com/pt/create/color-wheel">Adobe Color</a>
+
+- <a href="https://colourco.de/">Colourco.de</a>
+
+- <a href="https://flatuicolors.com/">Flat ui colors</a>
+
+- <a href="https://www.materialui.co/colors">Material Ui</a>
+
+- <a href="https://www.palettable.io/">Palettable.io</a>
+
+***
+
 **Serviços de Hospedagem de sites**
 
 - <a href="https://www.hostnet.com.br/">Hostnet</a>
