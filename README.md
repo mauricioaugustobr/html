@@ -66,7 +66,7 @@ Links abaixo:
 
 - <a href="https://www.materialui.co/colors">Material Ui</a>
 
-- <a href="https://www.palettable.io/">Palettable.io</a>
+- <a href="https://www.palettable.io/">Palettable.io </a>[Meu preferido]
 
 ***
 
