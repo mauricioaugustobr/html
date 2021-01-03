@@ -18,6 +18,8 @@ Links abaixo:
 
 - <a href="https://free-for.dev/#/?id=forms">Free for DEVS</a>[Muito conteúdo para DEVS]
 
+- <a href="https://github.com/cod3rcursos/web-moderno">Repositório do curso da Udemy(Full Stack)</a>
+
 ***
 
 **Referências ONLINE**
