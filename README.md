@@ -6,6 +6,8 @@ Links abaixo:
 
 - <a href="https://github.com/MilenaCarecho">GitHub da Milena Carecho</a>
 
+- <a href="https://www.nodestudio.com.br/home">Node Studio</a>
+
 - <a href="https://www.codeacademy.com/">Code Academy</a>
 
 - <a href="https://www.devmedia.com.br/guia/html/38051">DEV Media</a>
